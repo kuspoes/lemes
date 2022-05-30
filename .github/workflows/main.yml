@@ -2,7 +2,7 @@ name: Tes
 
 on:
   push:
-    branches: [ master ]
+    branches: [ main ]
 
 jobs:
   build:
