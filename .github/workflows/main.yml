@@ -1,4 +1,4 @@
-name: tes
+name: deploy ke deno
 
 on:
   push:
